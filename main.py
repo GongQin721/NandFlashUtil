@@ -3,6 +3,6 @@ import pyb
 from flashcommands import reset
 pyb.LED(4).on()
 
-#reset()
+reset()
 
 # then read id
